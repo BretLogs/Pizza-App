@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "476779142513",
+    "firebase_url": "https://lezgowsagow-dc07f.firebaseio.com",
+    "project_id": "lezgowsagow-dc07f",
+    "storage_bucket": "lezgowsagow-dc07f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476779142513:android:3da2d4ebfc0d263ffdead0",
+        "android_client_info": {
+          "package_name": "com.example.pizza_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476779142513-ib44a1h1ekmjjphlsa3hg97nl0mjk1g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFp4CnlVt8xhsiC3pnbVs-Df3mwAvFCRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476779142513-ib44a1h1ekmjjphlsa3hg97nl0mjk1g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
